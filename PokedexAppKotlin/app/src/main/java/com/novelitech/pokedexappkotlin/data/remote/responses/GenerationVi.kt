@@ -1,6 +1,6 @@
 package com.novelitech.pokedexappkotlin.data.remote.responses
 
 data class GenerationVi(
-    val omegaruby-alphasapphire: OmegarubyAlphasapphire,
-    val x-y: XY
+    val omegarubyAlphasapphire: OmegarubyAlphasapphire,
+    val xy: XY
 )
